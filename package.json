@@ -10,13 +10,13 @@
   "devDependencies": {},
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/wallace5303/nodejs-game.git"
+    "url": "git+https://github.com/guolianghu/nodejs-game.git"
   },
   "keywords": [],
-  "author": "gaoshuaixing",
+  "author": "guolianghu",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/wallace5303/nodejs-game/issues"
   },
-  "homepage": "https://github.com/wallace5303/nodejs-game#readme"
+  "homepage": "https://github.com/guolianghu/nodejs-game#readme"
 }
